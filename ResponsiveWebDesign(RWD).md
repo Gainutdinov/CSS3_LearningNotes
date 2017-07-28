@@ -224,8 +224,47 @@ Code below is show exact __Small Resolution First__ principle
 
 ### Client Interaction
 
+## JS to the Rescue
 
+### Media Queries
 
+__Pollyfills for Media Queries__
+
+One of the good Pollyfill:
+* Respond.js (by @scottjehl only for min-width and etc.)
+* css3-mediaquries (by @wjvandergraaf)
+
+Part of the CSS Object module
+```
+if (window.matchMedia( "(min-­‐width:    400px)").matches) {
+    /* the view port is at least
+    400 pixels wide  */
+} else {
+    /* the view port is less than
+    400 pixels wide */
+}
+```
+
+Polyfills & Wrappers
+* matchMedia.js (by @paulirish)
+* Harvey (by the team at Harvest)
+* mediaCheck (by @robtarr)
+
+### Conditional Loading
+
+Aggressive Enhancement
+
+## Lessons Learned
+
+### Pricing
+
+### Prioritization
+
+### Testing, Consistency, and Experimentaions
+
+## What's Next in RWD?
+
+Unconscious incompetence -> Conscious Incompetence -> Conscious Competence -> Unconscious Competence
 
 
 
