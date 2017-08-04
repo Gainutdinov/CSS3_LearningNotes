@@ -64,4 +64,36 @@ Bootstrap technology means - mobile 1st
     * Uses CSS transition property for animations
     * Verify on older browsers
 
+#### Bootstrap's Navbar Classes
+
+* Classes:
+    * Navbar-nav
+    * navbar-header
+    * navbar-brand
+    * navbar-toggle
+
+#### Summary
+
+* Used Bootstrap 3's Navbar
+* Worked with Navbar classes
+    * .navbar-right (to align our links to the right side)
+    * .navbar-inverse (to swithc from the default light styling over to dark styling)
+    * .navbar-fixed-top (to fix our navbar in the top of the screen)
+* Inserted an image in the brand area
+* Animated the Navbar based on scroll position
+    * Used gihub project cbpAnimatedHeader
+    * Also used classie.js
+    * CSS transitions used for animating padding and opacity
+
+### Responsive Images and Video
+
+#### Introduction
+
+* Bootstrap's responsive image class, img-responsive
+* Media queries and responsive images
+* Styling responsive images with Bootstrap and CSS
+* Full screen background images
+* Static background images
+* Full screen background videos, from video files or YouTube
+
 
