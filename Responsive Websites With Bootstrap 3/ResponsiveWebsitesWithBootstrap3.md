@@ -96,4 +96,18 @@ Bootstrap technology means - mobile 1st
 * Static background images
 * Full screen background videos, from video files or YouTube
 
+#### Summary
 
+* Bootstrap's responsive image class
+    * img-responsive
+* Bootstrap image styling
+    * img-rounded, img-circle, img-thumbnail
+* Media queries to change responsivness (we saw how make our logo non-responsive for larger devices, and responsive for smaller devices, using a media query)
+* Full screen image as wallpaper (we added a wallpaper image to the top of our web page using standard css properties, PSB)
+    * background-size: cover
+    * background-position
+* Fixed background images
+    * background-attachment: fixed
+    * background-attachment: scroll (for smaller devices)
+* Video wallpaper
+    * gihub.com/formstone/Wallpaper (used to add a video to our webpage)
