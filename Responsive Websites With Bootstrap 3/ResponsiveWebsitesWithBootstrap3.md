@@ -111,3 +111,38 @@ Bootstrap technology means - mobile 1st
     * background-attachment: scroll (for smaller devices)
 * Video wallpaper
     * gihub.com/formstone/Wallpaper (used to add a video to our webpage)
+
+### Scrolling Features
+
+#### Introduction
+
+* Add page content
+* Decorate the page top
+* Bootstrap's Scrollspy
+* Smooth scrolling
+* Parallax scrolling
+
+##### Summary
+
+* Added page content and decorated page top
+* Integrated Bootstrap's Scrollspy component
+* Smooth scrolling
+    * used jQuery Easing Plugin: http://gsgd.co.uk/sandbox/jquery/easing/
+    * jQuery's animate() function, setting scrollTop property
+* Parallax scrolling
+    * Used Stellar.js
+    * URL: http://markdalgleish.com/projects/stellar.js/
+
+### Animated Page Elements
+
+#### Introduction
+
+* Animate elements into view
+* Bootstrrap's image courusel component
+* An image gallery: nanoGallery
+
+
+
+
+
+
