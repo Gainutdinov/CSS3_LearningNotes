@@ -141,7 +141,15 @@ Bootstrap technology means - mobile 1st
 * Bootstrrap's image courusel component
 * An image gallery: nanoGallery
 
+##### Summary
 
+* Animate elements when scrolled into view
+    * wow.js
+    * animate.css
+* Bootstrap's Carousel component
+* nanoGallery picture gallery
+    * jQuery plugin
+    * http://nanogallery.brisbois.fr/
 
 
 
