@@ -87,6 +87,25 @@ Element E whose attribute attr has within its value the space-separated full wor
 
 ### Navigation and Empty Pseudo-Classes
 
+* http://estelle.github.io/selectors/#slide37
+
+### Other Pseudo-Classes
+
+* http://estelle.github.io/selectors/#slide40
+
+### Pseudo-Elements
+
+* http://estelle.github.io/selectors/#slide53
+
+##  Understanding Specificity
+
+* http://estelle.github.io/selectors/#slide48
+
+## Generated Content
+
+### Generated Content
+
+* http://estelle.github.io/selectors/#slide57
 
 
 
