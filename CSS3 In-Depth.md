@@ -105,7 +105,23 @@ Element E whose attribute attr has within its value the space-separated full wor
 
 ### Generated Content
 
-* http://estelle.github.io/selectors/#slide57
+* http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide5
+
+### CSS3 In-Depth
+
+* http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide9
+
+### Use-Cases for Generated Content
+
+* http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide12
+
+### Generated Content Example by Chris Coyer
+
+* http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide17
+
+### Generated Content Code Example
+
+* http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide19
 
 
 
