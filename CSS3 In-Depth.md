@@ -123,6 +123,56 @@ Element E whose attribute attr has within its value the space-separated full wor
 
 * http://estelle.github.io/CSS-Workshop/part_03_generated.html#slide19
 
+## Media Queries
 
+### Introduction to Media Queries
+
+* http://estelle.github.io/CSS-Workshop/part_04_media.html#slide3
+
+### The Viewport
+
+* http://estelle.github.io/CSS-Workshop/part_04_media.html#slide9
+
+* https://mediaqueri.es/
+
+## Debugging
+
+### Debugging in the Browser
+
+* http://estelle.github.io/CSS-Workshop/part_04_media.html#slide16
+
+### Debugging Mobile Browsers
+
+* http://estelle.github.io/CSS-Workshop/part_04_media.html#slide16
+
+## Colors
+
+### CSS Color Formats
+
+* http://estelle.github.io/CSS-Workshop/part_06_colors.html#slide4
+
+### Transparency and Color Tips
+
+* http://estelle.github.io/CSS-Workshop/part_06_colors.html#slide8
+
+## Fonts, Shadows and Text Effects
+
+### CSS Fonts
+
+* http://estelle.github.io/CSS-Workshop/part_07_fonts.html#slide4
+
+### Font Services
+
+* http://estelle.github.io/CSS-Workshop/part_07_fonts.html#slide7
+
+### Text Shadows and Box Shadows
+
+* http://estelle.github.io/CSS-Workshop/part_07_fonts.html#slide11
+
+## Borders and Backgrounds
+
+### Background Images
+
+*
 
 
