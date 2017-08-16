@@ -173,6 +173,47 @@ Element E whose attribute attr has within its value the space-separated full wor
 
 ### Background Images
 
+* http://estelle.github.io/CSS-Workshop/part_08_backgrounds.html#slide3
+
+### Background Repeat, Attachment and Position
+
+* http://estelle.github.io/CSS-Workshop/part_08_backgrounds.html#slide15
+
+### Background Clip, Origin and Size 
+
+* http://estelle.github.io/CSS-Workshop/part_08_backgrounds.html#slide20
+
+### Border Properties
+
+* http://estelle.github.io/CSS-Workshop/part_08_backgrounds.html#slide28
+
+### Border Images
+
+* http://estelle.github.io/CSS-Workshop/part_08_backgrounds.html#slide35
+
+## Gradients
+
+### Gradients
+
+* http://estelle.github.io/gradients/#slide2
+
+### Prefixed, Linear Gradients
+
+* http://estelle.github.io/gradients/#slide16
+
+### W3C Standard Syntax
+
+* http://estelle.github.io/gradients/#slide24
+
+### Radial Gradients
+
+* http://estelle.github.io/gradients/#slide34
+
+## Transfromation
+
+### Transformation
+
 *
+
 
 
