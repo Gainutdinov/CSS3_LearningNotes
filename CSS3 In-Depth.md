@@ -213,7 +213,46 @@ Element E whose attribute attr has within its value the space-separated full wor
 
 ### Transformation
 
-*
+* http://estelle.github.io/CSS-Workshop/part_10_transforms.html#slide3
 
+### 2D vs. 3D Transformations
 
+* http://estelle.github.io/CSS-Workshop/part_10_transforms.html#slide12
 
+## Transitions and Animations
+
+### Transition Basics
+
+* http://estelle.github.io/CSS-Workshop/part_11_animations.html#slide3
+
+### Transitions in the Real World
+
+* http://estelle.github.io/CSS-Workshop/part_11_animations.html#slide11
+
+### Animation Principles
+
+* http://estelle.github.io/CSS-Workshop/part_11_animations.html#slide17
+
+### Attaching Animations to Elements
+
+* http://estelle.github.io/CSS-Workshop/part_11_animations.html#slide23
+
+### Advanced Animation Proporties
+
+* http://estelle.github.io/CSS-Workshop/part_11_animations.html#slide30
+
+## Other CSS Features
+
+### Other CSS Features: Part 1
+
+* http://estelle.github.io/CSS-Workshop/part_12_features.html#slide4
+
+### Other CSS Features: Part 2
+
+* http://estelle.github.io/CSS-Workshop/part_12_features.html#slide8
+
+### Conclusion
+
+### Snowflake withou using JS
+
+* https://codepen.io/NickyCDK/pen/AIonk
