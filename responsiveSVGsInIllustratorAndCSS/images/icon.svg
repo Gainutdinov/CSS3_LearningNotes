@@ -1,0 +1,52 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 233 169" enable-background="new 0 0 233 169" xml:space="preserve">
+<defs>
+	<style type="text/css">
+		@media only screen and (max-width: 180px) {
+			#circles, #para {
+				display:none;
+			}
+		}
+		@media only screen and (max-width: 100px) 
+		{
+			#para2 {
+				display: none;
+			}
+			.lines {
+			stroke-width: 2;
+			}
+		}
+	</style>
+</defs>
+<path fill="none" class="lines" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M215,144H18c-6.6,0-12-5.4-12-12V21
+	c0-6.6,5.4-12,12-12h197c6.6,0,12,5.4,12,12v111C227,138.6,221.6,144,215,144z"/>
+<path fill="none" class="lines" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M216.5,165h-200C10.7,165,6,160.3,6,154.5v0
+	c0-5.8,4.7-10.5,10.5-10.5h200c5.8,0,10.5,4.7,10.5,10.5v0C227,160.3,222.3,165,216.5,165z"/>
+<path fill="none" class="lines" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M167.9,33.2H23.2c-3.1,0-5.7-2.6-5.7-5.7v0
+	c0-3.1,2.6-5.7,5.7-5.7h144.7c3.1,0,5.7,2.6,5.7,5.7v0C173.6,30.7,171.1,33.2,167.9,33.2z"/>
+<circle fill="none" class="lines" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="188.3" cy="27.5" r="5.9"/>
+<circle fill="none" class="lines" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="207.3" cy="27.5" r="5.9"/>
+<g id="circles">
+	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="17.3" cy="154.5" r="3.9"/>
+	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="203.3" cy="154.5" r="3.9"/>
+	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="215.3" cy="154.5" r="3.9"/>
+</g>
+<g id="para2">
+	<path fill="none" stroke="#000000" stroke-width="3.2941" stroke-miterlimit="10" d="M206.1,94.7h-58.8c-3.6,0-6.6-3-6.6-6.6V53.9
+		c0-3.6,3-6.6,6.6-6.6h58.8c3.6,0,6.6,3,6.6,6.6v34.3C212.6,91.8,209.7,94.7,206.1,94.7z"/>
+	<path fill="none" stroke="#000000" stroke-width="3.2941" stroke-miterlimit="10" d="M206.1,127.7h-58.8c-3.6,0-6.6-3-6.6-6.6
+		v-10.6c0-3.6,3-6.6,6.6-6.6h58.8c3.6,0,6.6,3,6.6,6.6v10.6C212.6,124.8,209.7,127.7,206.1,127.7z"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="47.5" x2="122" y2="47.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="63.5" x2="122" y2="63.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="83.5" x2="122" y2="83.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="99.5" x2="122" y2="99.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="119.5" x2="96" y2="119.5"/>
+</g>
+<g id="para">
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="55.5" x2="122" y2="55.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="91.5" x2="122" y2="91.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="111.5" x2="122" y2="111.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="127.5" x2="67" y2="127.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="17" y1="71.5" x2="75" y2="71.5"/>
+</g>
+</svg>
